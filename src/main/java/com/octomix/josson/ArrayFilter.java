@@ -26,6 +26,12 @@ import static com.octomix.josson.Utils.parseInteger;
 
 /**
  * Stores an array filter details.
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
  */
 class ArrayFilter {
 
